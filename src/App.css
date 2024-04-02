@@ -1,0 +1,20 @@
+#cart-widget {
+  background-color: yellow;
+  }
+
+#cart-widget > span {
+color: black;
+padding-left: 1rem;
+padding-right: 1rem;
+font-size: larger;
+text-decoration: solid;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 2px;
+}
+
+#brandname {
+  text-decoration: solid;
+}

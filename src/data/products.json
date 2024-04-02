@@ -1,0 +1,30 @@
+[
+{
+    "name": "Dahua DVR 4",
+    "id": "1",
+    "category": "Grabadoras",
+    "detail": "Kit DVR Dahua + 4 cámaras",
+    "img": "https://us.dahuasecurity.com/wp-content/uploads/2018/03/X72A_front_web-1.png"
+},
+{
+    "name": "Dahua NVR 4",
+    "id": "2",
+    "category": "Grabadoras",
+    "detail": "Kit NVR Dahua + 4 cámaras",
+    "img": "https://us.dahuasecurity.com/wp-content/uploads/2021/08/NVR_N41C_Series_image_web-150x150.png"
+},
+{
+    "name": "Camara Dahua HDCVI 3.6mm",
+    "id": "3",
+    "category": "Cámaras analógicas",
+    "detail": "Cámara HDCVI 3.6mm",
+    "img": "https://us.dahuasecurity.com/wp-content/uploads/2021/10/A52CJ62_View_45left-logo_web.png"
+},
+{
+    "name": "Cámara Dahua IP 2mp",
+    "id": "4",
+    "category": "Cámaras analógicas",
+    "detail": "Cámara IP HD 2 megapixels",
+    "img": "https://us.dahuasecurity.com/wp-content/uploads/2023/12/Image_1A404DBNR_WebsiteThumbnail.png"
+}
+]
