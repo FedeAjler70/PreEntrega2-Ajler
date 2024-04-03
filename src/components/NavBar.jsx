@@ -14,10 +14,10 @@ const NavBar = () => {
         </Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link to="/category/Cámaras analógicas" as={NavLink}>
-            Cámaras HDCVI
+            Cámaras
           </Nav.Link>
           <Nav.Link to="/category/Grabadoras" as={NavLink}>
-            Cámaras IP
+            Grabadoras
           </Nav.Link>
         </Nav>
         <CartWidget />

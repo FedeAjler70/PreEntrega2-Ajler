@@ -29,7 +29,6 @@ const ItemListContainer = ({ greeting }) => {
   return (
     <Container className="mt-4">
       <h1>{greeting}</h1>
-      {console.log(products)}
       <ItemList products={products} />
     </Container>
   )

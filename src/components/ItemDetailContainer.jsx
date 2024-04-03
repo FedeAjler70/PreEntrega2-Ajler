@@ -17,7 +17,6 @@ const ItemDetailContainer = () => {
 
     get.then((data) => {
       const filter = data.find((p) => p.id == Number(id))
-      console.log(filter)
       setProduct(filter)
     })
   }, [id])

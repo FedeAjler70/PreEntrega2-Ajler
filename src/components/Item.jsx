@@ -12,7 +12,7 @@ const Item = ({ id, img, detail, category, name }) => {
           <Card.Text>{detail}</Card.Text>
           <Card.Text>{category}</Card.Text> {/* Corregir a Card.Text */}
           <Link to={`/item/${id}`}>
-            <Button variant="primary">Go somewhere</Button>
+            <Button variant="primary"> Detalles </Button>
           </Link>
         </Card.Body>
       </Card>
